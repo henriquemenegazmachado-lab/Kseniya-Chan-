@@ -1,0 +1,12 @@
+{
+  "name": "Kseniya Chan🌺",
+  "version": "1.0.0",
+  "description": "Kseniya Chan🌺 the guide",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
